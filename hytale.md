@@ -5,5 +5,5 @@ caption: Το hytale είναι ένα παιχνίδι το οποίο αναμ
 title: hytale
 year: 2020
 categories:
-  - Ορισμός
+  - Εξέλιξη
 ---
